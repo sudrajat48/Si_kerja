@@ -1,8 +1,8 @@
 # Flutter Si Kerja with PHP and MYSQL
 
 ![alt text](https://github.com/sudrajat48/Si_kerja/blob/main/assets/images/1-removebg-preview.png?raw=true)
-![2-removebg-preview](https://github.com/sudrajat48/Si_kerja/assets/61102981/a6264add-4b91-4135-9857-675fa1022d17)
-![3-removebg-preview](https://github.com/sudrajat48/Si_kerja/assets/61102981/bb47b0f4-4668-482a-b9d1-765f5097de11)
+![alt text](https://github.com/sudrajat48/Si_kerja/blob/main/assets/images/2-removebg-preview.png?raw=true)
+![alt text](https://github.com/sudrajat48/Si_kerja/blob/main/assets/images/3-removebg-preview.png?raw=true)
 
 ## Features
 
